@@ -5,7 +5,7 @@ Python module for controlling **Egismos LDM-2M-100-RS** (Laser Distance Module, 
 ## Installation
 
 ```bash
-git clone https://github.com/YourUsername/egismos_LDM_model2.git
+git clone https://github.com/AtawitJ/egismos_LDM_model2.git
 cd egismos_LDM_model2
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
